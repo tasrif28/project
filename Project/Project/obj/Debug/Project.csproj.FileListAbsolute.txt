@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\1285417\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\HomePC\Desktop\1285417\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\1285417\Project\Project\bin\Debug\Project.exe.config
+C:\Users\HomePC\Desktop\1285417\Project\Project\bin\Debug\Project.exe
+C:\Users\HomePC\Desktop\1285417\Project\Project\bin\Debug\Project.pdb
+C:\Users\HomePC\Desktop\1285417\Project\Project\obj\Debug\Project.exe
+C:\Users\HomePC\Desktop\1285417\Project\Project\obj\Debug\Project.pdb
+C:\Users\Windows 10\Downloads\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Windows 10\Downloads\Project\Project\bin\Debug\Project.exe
+C:\Users\Windows 10\Downloads\Project\Project\bin\Debug\Project.pdb
+C:\Users\Windows 10\Downloads\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\Windows 10\Downloads\Project\Project\obj\Debug\Project.pdb
